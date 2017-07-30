@@ -1,4 +1,4 @@
-# algorithms
+# Programming Problems
 
 | HackerRank | Submissions  |
 | ---------- | -------------| 
