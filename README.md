@@ -1,8 +1,5 @@
 # Programming Problems
 
-Welcome to the programming_practice wiki!
-
-
 | HackerRank | Submissions  |
 | ---------- | -------------| 
 | [2D Array DS](https://www.hackerrank.com/challenges/2d-array?h_r=internal-search)  | [C++](https://github.com/jmmal/programming_practice/blob/master/HackerRank/2DArrayDS.cpp) |
