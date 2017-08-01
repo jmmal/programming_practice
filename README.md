@@ -66,4 +66,4 @@
 |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)||
 |[Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)||
 |[Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation)||
-|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)||
+|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)|[C++](https://github.com/jmmal/programming_practice/blob/master/HackerRank/ViralAdvertising.cpp)|
