@@ -1,7 +1,9 @@
 # Programming Problems
 
 | HackerRank | Submissions  |
-| ---------- | -------------| 
+| ---------- | -------------|
+|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|[Ruby](https://github.com/jmmal/programming_practice/blob/master/HackerRank/CompareTheTriplets.rb)|
+|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|[Ruby](https://github.com/jmmal/programming_practice/blob/master/HackerRank/DiagonalDifference.rb)|
 | [2D Array DS](https://www.hackerrank.com/challenges/2d-array?h_r=internal-search)  | [C++](https://github.com/jmmal/programming_practice/blob/master/HackerRank/2DArrayDS.cpp) |
 |[Algorithmic Crush](https://www.hackerrank.com/challenges/crush?h_r=internal-search)|[C++](https://github.com/jmmal/programming_practice/blob/master/HackerRank/AlgorithmicCrush.cpp)|
 |[Repeated String](https://www.hackerrank.com/challenges/repeated-string)|[C++](https://github.com/jmmal/programming_practice/blob/master/HackerRank/RepeatedString.cpp)|
