@@ -2,6 +2,10 @@
 
 | HackerRank | Submissions  |
 | ---------- | -------------|
+|[Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links)|[Java](https://github.com/jmmal/programming_practice/blob/master/HackerRank/DetectHTMLLinks.java)|
+|[Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks)|[Java](https://github.com/jmmal/programming_practice/blob/master/HackerRank/QueuesTaleOfTwoStacks.java)|
+|[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)|[Java](https://github.com/jmmal/programming_practice/blob/master/HackerRank/IceCreamParlour.java)|
+|[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)|[Java](https://github.com/jmmal/programming_practice/blob/master/HackerRank/MissingNumber.java)|
 |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|[Ruby](https://github.com/jmmal/programming_practice/blob/master/HackerRank/CompareTheTriplets.rb), [C++](https://github.com/jmmal/programming_practice/blob/master/HackerRank/CompareTheTriplets.cpp), [Swift](https://github.com/jmmal/programming_practice/blob/master/HackerRank/CompareTheTriplets.swift)|
 |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|[Ruby](https://github.com/jmmal/programming_practice/blob/master/HackerRank/DiagonalDifference.rb)|
 | [2D Array DS](https://www.hackerrank.com/challenges/2d-array?h_r=internal-search)  | [C++](https://github.com/jmmal/programming_practice/blob/master/HackerRank/2DArrayDS.cpp) |
