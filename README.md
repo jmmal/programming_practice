@@ -2,6 +2,7 @@
 
 | HackerRank | Submissions  |
 | ---------- | -------------|
+|[Pairs](https://www.hackerrank.com/challenges/pairs/problem)|[Java](https://github.com/jmmal/programming_practice/blob/master/HackerRank/Pairs.java)|
 |[Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links)|[Java](https://github.com/jmmal/programming_practice/blob/master/HackerRank/DetectHTMLLinks.java)|
 |[Queues: A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks)|[Java](https://github.com/jmmal/programming_practice/blob/master/HackerRank/QueuesTaleOfTwoStacks.java)|
 |[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)|[Java](https://github.com/jmmal/programming_practice/blob/master/HackerRank/IceCreamParlour.java)|
